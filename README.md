@@ -1,3 +1,7 @@
+Create a bar chart or histogram to visualize the distribution of a categorical or continuous variable, such as the distribution of ages or genders in a population.
+
+Sample Dataset :- https://data.worldbank.org/indicator/SP.POP.TOTL
+
 Project Title: Population Demographics Visualization
 
 Description: This project aims to visualize the distribution of a categorical or continuous variable in a population. The visualization can be used to understand the demographic makeup of a population based on different variables such as age, gender, income, etc.
